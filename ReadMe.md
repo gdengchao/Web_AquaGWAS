@@ -26,4 +26,3 @@
 `param["gemma_lmm"] = "1"`|// Gemma：lmm校正类型
 
 [^1]:作为下标的参数以及作为选择的参数值已在conf.hpp定义为常量
-
